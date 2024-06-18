@@ -1,0 +1,1 @@
+make && echo "*****************" && ./AirWatcherSHABE && echo "*****************" && make clean && echo "*****************"
