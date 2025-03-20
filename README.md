@@ -1,27 +1,27 @@
 # AirWatcher
 
-Au cours de ce projet, nous allons mettre en pratique nos connaissances en génie logiciel pour développer une application : **AirWatcher**. Cette application permettra de visualiser la qualité de l'air en se basant sur des données capteurs. Elle pourra être utilisée par divers types d'utilisateurs, notamment :
+In this project, we will put our software engineering knowledge into practice to develop an application: **AirWatcher**. This application will allow users to visualize air quality based on sensor data. It will be used by various types of users, including:
 
-- **Gouvernement** : Pour surveiller et analyser la qualité de l'air à l'échelle locale et nationale.
-- **Fournisseurs** : Ceux qui fournissent des capteurs et des purificateurs d'air pourront utiliser les données pour améliorer leurs produits et services.
-- **Utilisateurs privés volontaires** : Les particuliers peuvent installer des capteurs chez eux pour surveiller la qualité de l'air dans leur environnement immédiat.
+- **Government**: To monitor and analyze air quality at the local and national levels.
+- **Suppliers**: Those who provide sensors and air purifiers can use the data to improve their products and services.
+- **Voluntary private users**: Individuals can install sensors in their homes to monitor the air quality in their immediate environment.
 
-## Fonctionnalités
+## Features
 
-### Pour le gouvernement
+### For the Government
 
-- **Surveillance de la qualité de l'air** : Accès aux données en temps réel provenant des capteurs installés à travers le territoire.
-- **Analyse des données** : Outils pour analyser les tendances et identifier les zones à problèmes.
-- **Rapports** : Génération de rapports détaillés sur la qualité de l'air pour la prise de décision et la communication publique.
+- **Air quality monitoring**: Access to real-time data from sensors installed across the territory.
+- **Data analysis**: Tools to analyze trends and identify problem areas.
+- **Reports**: Generation of detailed air quality reports for decision-making and public communication.
 
-### Pour les fournisseurs
+### For Suppliers
 
-- **Gestion des capteurs** : Suivi des capteurs déployés, y compris l'état et les performances.
-- **Amélioration des produits** : Utilisation des données pour améliorer les capteurs et les purificateurs d'air.
-- **Support client** : Fournir des informations et des recommandations basées sur les données de qualité de l'air.
+- **Sensor management**: Monitoring of deployed sensors, including their status and performance.
+- **Product improvement**: Using the data to improve sensors and air purifiers.
+- **Customer support**: Providing information and recommendations based on air quality data.
 
-### Pour les utilisateurs privés
+### For Private Users
 
-- **Installation de capteurs** : Guide et support pour l'installation de capteurs à domicile.
-- **Surveillance personnelle** : Accès aux données de qualité de l'air à l'intérieur et autour de leur domicile.
-- **Notifications** : Alertes et recommandations en cas de mauvaise qualité de l'air.
+- **Sensor installation**: Guide and support for installing sensors at home.
+- **Personal monitoring**: Access to air quality data inside and around their home.
+- **Notifications**: Alerts and recommendations in case of poor air quality.
